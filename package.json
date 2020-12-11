@@ -1,0 +1,23 @@
+{
+  "name": "myrest-api",
+  "version": "1.0.0",
+  "description": "My first api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eatcodesforlife/myfirstapi.git"
+  },
+  "author": "Cris Acosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eatcodesforlife/myfirstapi/issues"
+  },
+  "homepage": "https://github.com/eatcodesforlife/myfirstapi#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
